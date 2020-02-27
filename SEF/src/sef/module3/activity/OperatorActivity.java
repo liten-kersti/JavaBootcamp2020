@@ -16,16 +16,17 @@ public class OperatorActivity {
 		int j = 5;
 		
 		// Subtract numbers
-		int result = i-j;
+		int result = i - j;
 		
 		// Print result
 		System.out.println("Difference = " + result);
 		
 		// Add numbers
-		
+		int adding = i + j;
+
 		
 		// Print result
-		
+		System.out.println("The result is " + adding);
 		
 	}
 
